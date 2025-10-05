@@ -1,0 +1,10 @@
+flask
+numpy
+xarray
+matplotlib
+cartopy
+pathlib
+io
+base64
+csv
+werkzeug
