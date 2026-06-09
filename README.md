@@ -1,5 +1,5 @@
 # 🦈 Project Delta: Shark Foraging Prediction & Real-Time Tracking Tag
-### **Winner: 1st Place (NASA Space Apps 2025, Mountain View)** ### ** and Nominated For Global Judging **
+### **Winner: 1st Place (NASA Space Apps 2025, Mountain View)** + Nominated For Global Judging **
 
 ---
 
